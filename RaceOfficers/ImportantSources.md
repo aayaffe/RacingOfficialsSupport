@@ -1,5 +1,5 @@
 ---
-title: Important Sail Race Officials Sources
+title: Important Resources
 nav_order: 4
 ---
 
