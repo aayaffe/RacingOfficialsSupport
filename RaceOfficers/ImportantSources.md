@@ -1,6 +1,5 @@
 ---
 title: Important Sail Race Officials Sources
-layout: default
 ---
 
 # Important Sail Race Officials Sources
