@@ -2,5 +2,5 @@ title: RacingAid
 description: Sail race officials resources and exams
 remote_theme: just-the-docs/just-the-docs
 plugins:
-	- jekyll-remote-theme
+  - jekyll-remote-theme
 markdown: kramdown
