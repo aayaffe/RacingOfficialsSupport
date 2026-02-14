@@ -1,5 +1,6 @@
 ---
 title: RacingAid
+layout: default
 ---
 
 # RacingAid

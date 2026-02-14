@@ -1,5 +1,6 @@
 ---
 title: Sample Exam 2 - Answers
+layout: default
 ---
 
 *Based on the Racing Rules of Sailing (RRS) 2025–2028*
