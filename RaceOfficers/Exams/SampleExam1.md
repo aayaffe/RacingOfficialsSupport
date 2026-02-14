@@ -1,5 +1,6 @@
 ---
 title: Sample Exam 1 - Answers
+nav_order: 2
 ---
 
 Here are the answers to the study questions based on the **Racing Rules of Sailing (RRS) 2025-2028**.
