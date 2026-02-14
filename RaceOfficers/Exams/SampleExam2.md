@@ -3,7 +3,8 @@ title: Sample Exam 2 - Answers
 nav_order: 3
 ---
 
-*Based on the Racing Rules of Sailing (RRS) 2025–2028*
+Each question is followed by the correct answer and the relevant rule for further study.
+**Based on the Racing Rules of Sailing (RRS) 2025–2028**
 
 ## Quiz #1: Regatta Organization & RC Responsibilities
 
