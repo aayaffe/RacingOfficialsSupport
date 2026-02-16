@@ -1,6 +1,6 @@
 ---
 title: Helpful Diagrams
-nav_order: 5
+nav_order: 6
 ---
 
 # Helpful Diagrams
