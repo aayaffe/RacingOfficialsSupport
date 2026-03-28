@@ -9,7 +9,13 @@ Sail race officials resources and study materials.
 
 ## Resources
 
+### Race Officials
+
 - [Important Sail Race Officials Sources](RaceOfficers/ImportantSources.html)
 - [Sample Exam 1 - Answers](RaceOfficers/Exams/SampleExam1.html)
 - [Sample Exam 2 - Study Guide](RaceOfficers/Exams/SampleExam2.html)
+- [Sample Exam 3 - Study Guide](RaceOfficers/Exams/SampleExam3.html)
 - [Helpful Diagrams](helpful-diagrams.html)
+
+### Judges
+- [Rule 42 Quiz - Answers](Judges/Rule42Quiz.html)
