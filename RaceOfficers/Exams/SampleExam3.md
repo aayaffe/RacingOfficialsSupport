@@ -1,6 +1,7 @@
 ---
 title: Sample Exam 3 - Answers
-nav_order: 4
+nav_order: 3
+parent: Race Officers
 ---
 
 ### ***NOT YET VERIFIED!***

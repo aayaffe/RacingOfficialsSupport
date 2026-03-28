@@ -1,6 +1,7 @@
 ---
 title: Important Resources
-nav_order: 5
+nav_order: 4
+parent: Race Officers
 ---
 
 # Important Sail Race Officials Sources

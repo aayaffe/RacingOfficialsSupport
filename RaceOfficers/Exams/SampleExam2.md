@@ -1,6 +1,7 @@
 ---
 title: Sample Exam 2 - Answers
-nav_order: 3
+nav_order: 2
+parent: Race Officers
 ---
 
 Each question is followed by the correct answer and the relevant rule for further study.
